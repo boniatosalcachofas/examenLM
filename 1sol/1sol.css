@@ -1,0 +1,17 @@
+table{
+
+border-collapse: collapse;
+
+    
+}
+
+td{
+
+border: none;
+}
+
+.ajusteColumnaDerecha{
+
+    padding-left: 25%;
+
+}
