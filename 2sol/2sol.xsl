@@ -7,8 +7,12 @@
         <link href="2sol.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
-        <h1><xsl:value-of select="nombre"/></h1>  <h3 class="right"><xsl:value-of select="provincia"/></h3>
-        <xsl:value-of select="/prediccion/dia[1]"/>
+        <h1><xsl:value-of select="nombre"/></h1>
+        <h3><xsl:value-of select="provincia"/></h3>
+        <xsl:for-each select="prediccion/dia">
+        <xsl:value-of class="right" select="temperatura/maxima"/>
+    
+        </xsl:for-each>
    
     </body>
     
