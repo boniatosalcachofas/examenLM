@@ -9,15 +9,18 @@
     <body>
         <h1><xsl:value-of select="nombre"/></h1>
         <h3><xsl:value-of select="provincia"/></h3>
-        <div class="right">
-            <xsl:for-each select="prediccion/dia">
+       
+            <xsl:for-each  select="prediccion/dia">
+            <p><xsl:value-of select="@fecha"/>:</p>
+            <div class="rodeo">
             Maxima
             <p><xsl:value-of select="temperatura/maxima"/></p>
+            
             Minima
-            <p><xsl:value-of select="temperatura/minima"/></p>
-        
+            <p class="separador"><xsl:value-of select="temperatura/minima"/></p>
+        </div>
             </xsl:for-each>
-        </div>a
+        
     </body>
     
     </html>
