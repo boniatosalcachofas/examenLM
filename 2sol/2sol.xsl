@@ -17,7 +17,7 @@
             <p><xsl:value-of select="temperatura/minima"/></p>
         
             </xsl:for-each>
-        </div>
+        </div>a
     </body>
     
     </html>
