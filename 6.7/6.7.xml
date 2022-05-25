@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="3.xsl"?>
+<invitacion>
+    <nombreNovios>Juan y Lucia</nombreNovios>
+    <descripcion>Nos hace mucha ilusion convocaros para nuestro casamiento este año</descripcion>
+    <tiempo fecha="23-5-2021" hora="11:30"></tiempo>
+    <ubicacionCeremonia>Iglesia de Santa Ana</ubicacionCeremonia>
+    <ubicacionCelebracion>Restaurante Casa Soles</ubicacionCelebracion>
+    <telefonoConfirmacion>+34 555 5555 555</telefonoConfirmacion>
+</invitacion>
