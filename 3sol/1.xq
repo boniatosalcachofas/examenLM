@@ -1,0 +1,1 @@
+//pelicula/valoracion[@puntos="3"]/../nombre

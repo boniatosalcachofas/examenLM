@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="3.xsl"?>
+<peliculas>
+<pelicula>
+    <nombre>Tacones lejanos</nombre>
+    <director>Pedro Almodovar</director>
+    <valoracion puntos="4" />
+    <publico>Adultos</publico>
+     <actores>
+        <actor>Javier Barden</actor>
+        <actor>Victoria Abril</actor>
+        <actor>Marisa Parecdes</actor>
+    </actores>
+</pelicula>
+<pelicula>
+    <nombre>El crack</nombre>
+    <director>Jose Luis Garci</director>
+    <valoracion puntos="3"/>
+    <publico>Todos los publicos</publico>
+    <actores>
+        <actor>Alfredo Landa</actor>
+        <actor>Manuel Tejada</actor>
+        <actor>Marisa Casanova</actor>
+    </actores>
+</pelicula>
+<pelicula>
+    <nombre>Hable con ella</nombre>
+    <director>Pedro Almodovar</director>
+    <valoracion puntos="4"/>
+    <publico>Infantil</publico>
+    <actores>
+        <actor>Javier Camara</actor>
+        <actor>Leonor Watting</actor>
+        <actor>Geraldin Chaplin</actor>
+    </actores>
+</pelicula>
+<pelicula>
+    <nombre>Mama o Papa</nombre>
+    <director>Dani de la Orden</director>
+    <valoracion />
+    <publico>Infantil</publico>
+    <actores>
+        <actor>Paco Leon</actor>
+        <actor>Miren Ibarguren</actor>
+        <actor>Berto Romero</actor>
+    </actores>
+</pelicula>
+</peliculas>

@@ -1,0 +1,1 @@
+//pelicula[publico="Infantil"]/nombre | //pelicula[publico="Adultos"]/nombre
