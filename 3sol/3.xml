@@ -2,43 +2,43 @@
 <?xml-stylesheet type="text/xsl" href="3.xsl"?>
 <peliculas>
 <pelicula>
-    <nombre>Tacones lejanos</nombre>
-    <director>Pedro Almodovar</director>
-    <valoracion puntos="4" />
+    <nombre>Bobby el cerdito astronauta</nombre>
+    <director>Pablo Chiapella</director>
+    <valoracion puntos="8" />
     <publico>Adultos</publico>
      <actores>
-        <actor>Javier Barden</actor>
-        <actor>Victoria Abril</actor>
-        <actor>Marisa Parecdes</actor>
+        <actor>Aitor Sarchigue</actor>
+        <actor>Selina Gomez</actor>
+        <actor>Maicena Rodriguez</actor>
     </actores>
 </pelicula>
 <pelicula>
-    <nombre>El crack</nombre>
-    <director>Jose Luis Garci</director>
-    <valoracion puntos="3"/>
-    <publico>Todos los publicos</publico>
-    <actores>
-        <actor>Alfredo Landa</actor>
-        <actor>Manuel Tejada</actor>
-        <actor>Marisa Casanova</actor>
-    </actores>
-</pelicula>
-<pelicula>
-    <nombre>Hable con ella</nombre>
-    <director>Pedro Almodovar</director>
-    <valoracion puntos="4"/>
-    <publico>Infantil</publico>
-    <actores>
-        <actor>Javier Camara</actor>
-        <actor>Leonor Watting</actor>
-        <actor>Geraldin Chaplin</actor>
-    </actores>
-</pelicula>
-<pelicula>
-    <nombre>Mama o Papa</nombre>
-    <director>Dani de la Orden</director>
+    <nombre>Dios mio, que hemos hecho</nombre>
+    <director>Jose Luis Torrente</director>
     <valoracion />
     <publico>Infantil</publico>
+    <actores>
+        <actor>Altora Sumisa</actor>
+        <actor>Reitrem Segrut</actor>
+        <actor>Lonres Aitrun</actor>
+    </actores>
+</pelicula>
+<pelicula>
+    <nombre>Los padres de ella</nombre>
+    <director>Linre Sarastrugue</director>
+    <valoracion puntos="9"/>
+    <publico>Infantil</publico>
+    <actores>
+        <actor>Ben Stiller</actor>
+        <actor>Adam Sandler</actor>
+        <actor>Gertrudis Aitron</actor>
+    </actores>
+</pelicula>
+<pelicula>
+    <nombre>Avengers</nombre>
+    <director>Levis Ackerman</director>
+    <valoracion />
+    <publico>Todos Los Publicos</publico>
     <actores>
         <actor>Paco Leon</actor>
         <actor>Miren Ibarguren</actor>

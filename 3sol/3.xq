@@ -1,1 +1,1 @@
-//pelicula[publico="Infantil"][director="Pedro Almodovar"]/nombre
+//pelicula[publico="Infantil"][director="Jose Luis Torrente"]/nombre | //pelicula[publico="Infantil"][director="Jose Luis Torrente"]/valoracion/@puntos
